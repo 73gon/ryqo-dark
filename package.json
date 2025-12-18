@@ -1,0 +1,22 @@
+{
+  "name": "ryqo-dark",
+  "displayName": "ryqo-dark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.107.0"
+  },
+  "publisher": "malikmardan",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "ryqo-dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ryqo-dark-color-theme.json"
+      }
+    ]
+  }
+}
