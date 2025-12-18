@@ -2,10 +2,11 @@
   "name": "ryqo-dark",
   "displayName": "ryqo-dark",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.107.0"
   },
+  "icon": "images/icon.png",
   "publisher": "malikmardan",
   "categories": [
     "Themes"
