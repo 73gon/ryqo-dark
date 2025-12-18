@@ -18,5 +18,10 @@
         "path": "./themes/ryqo-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/73gon/ryqo-dark.git"
+  },
+  "license": "MIT"
 }
